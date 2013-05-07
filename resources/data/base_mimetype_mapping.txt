@@ -1,0 +1,63 @@
+application/acp=a.acp
+application/ms-infopath.xml=a.xml
+application/msword=a.doc
+"application/msword; charset=utf-8"=a.doc
+application/octet-stream=a.exe
+"application/octet-stream; charset=utf-8"=a.exe
+application/pdf=a.pdf
+"application/pdf; charset=utf-8"=a.pdf
+application/photoshop=a.txt
+application/postscript=a.txt
+application/rtf=a.rtf
+application/visio=a.txt
+application/vnd.excel=a.xls
+application/vnd.ms-excel=a.xls
+"application/vnd.ms-excel; charset=utf-8"=a.xls
+application/vnd.ms-outlook=a.msg
+application/vnd.ms-powerpoint=a.ppt
+application/vnd.ms-word.document.macroenabled.12=a.doc
+"application/vnd.ms-word.document.macroenabled.12; charset=utf-8"=a.doc
+application/vnd.oasis.opendocument.text=a.odt
+application/vnd.oasis.opendocument.graphics=a.odc
+application/vnd.openxmlformats-officedocument.presentationml.presentation=a.odp
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=a.ods
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=a.odt
+"application/vnd.openxmlformats-officedocument.wordprocessingml.document; charset=utf-8"=a.odt
+application/vnd.powerpoint=a.ppt
+application/wordperfect=a.doc
+application/x-javascript=a.js
+application/x-shockwave-flash=a.txt
+application/x-wais-source=a.txt
+application/x-zip-compressed=a.zip
+"application/xml; charset=iso-8859-1"=a.xml
+"application/xml; charset=utf-8"=a.xml
+application/zip=a.zip
+"application/zip; charset=utf-8"=a.zip
+audio/mpeg=a.mp4
+audio/wav=a.txt
+audio/x-mpeg=a.txt
+audio/x-ms-wma=a.txt
+audio/x-wav=a.txt
+image/bmp=a.bmp
+image/gif=a.gif
+image/jpeg=a.jpg
+image/pjpeg=a.jpg
+image/png=a.png
+image/tiff=a.tiff
+"image/tiff; charset=utf-8"=a.tiff
+message/rfc822=a.eml
+multipart/mixed=a.txt
+text/css=a.css
+text/html=a.html
+text/plain=a.txt
+text/xml=a.xml
+video/avi=a.mp4
+video/mp4=a.mp4
+video/mpeg=a.mp4
+video/mpeg4=a.mp4
+video/quicktime=a.mov
+video/x-flv=a.txt
+video/x-ms-asf=a.txt
+video/x-ms-wma=a.txt
+video/x-ms-wmv=a.txt
+video/x-msvideo=a.txt

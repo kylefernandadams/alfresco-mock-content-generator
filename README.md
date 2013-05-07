@@ -1,11 +1,11 @@
-AlfrescoMockContentGenerator
+alfresco-mock-content-generator
 =====================
-The AlfrescoMockContentGenerator project contains a set of shell scripts to be used for testing Alfresco upgrades and 
+The alfresco-mock-content-generator project contains a set of shell scripts to be used for testing Alfresco upgrades and 
 replicating environments when using the existing content store is not feasible. 
 
 Disclaimer
 ==========
-Use the AlfrescoMockContentGenerator tool at your own risk. The AlfrescoMockContentGenerator is not supported by Alfresco. It should only be used in development environments and for testing purposes. 
+Use the alfresco-mock-content-generator tool at your own risk. The alfresco-mock-content-generator is not supported by Alfresco. It should only be used in development environments and for testing purposes. 
 
 Instructions
 ============

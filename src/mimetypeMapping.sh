@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 # Create mimemap.txt file for use with the contentGenerator.sh script
 
 base_dir=<my_base_directory>

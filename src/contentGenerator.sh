@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 # Get content urls from alfresco database and generate mock content
 
 # ####################################################################################### #

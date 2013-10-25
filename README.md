@@ -23,6 +23,7 @@ provide a sample file with the following naming convention. a.my_missing_extensi
 
 Sample Output
 =============
+```bash
 Run in test mode (yes/no)?
 
 yes
@@ -73,6 +74,7 @@ alfresco
 
 2013-04-26-15:36:32 - Total files generated:       86
 
+```
 
 License
 =======
